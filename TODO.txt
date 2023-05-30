@@ -1,0 +1,6 @@
+1. Responsywność.
+3. Licznik FPS.
+4*. favicon.
+5. Github.
+6*. Możliwość pobrania. 
+7*. Zapis do Local Storage.
